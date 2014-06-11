@@ -4,6 +4,8 @@ Using [Issues](https://github.com/codeforamerica/health-project-ideas/issues) to
 
 Got an idea? Even a tiny one? SHARE IT!
 
+We use github (this website!) to discuss things. If you're not used to that, here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4).
+
 ### Template
 
 (Copy and paste the below into a new issue.)
