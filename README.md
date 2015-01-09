@@ -1,4 +1,4 @@
-# Health Project Ideas
+# Project Ideas
 
 Using [Issues](https://github.com/codeforamerica/health-project-ideas/issues) to manage ideas for health (and human service) projects at CfA.
 
